@@ -45,3 +45,5 @@ def setup():
     malyKwadratowyKwadrat.sketchKwadratowy(15, 20, 2)
     malutkiKwadratowyKwadrat = PasiastyKwadrat(50.0)
     malutkiKwadratowyKwadrat.sketchPasiasty(140, 40, 3)
+    
+# ok, 2 pkt
